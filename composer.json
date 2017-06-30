@@ -51,7 +51,8 @@
         "davis/flarum-ext-socialprofile": "^0.2.3"
     },
     "require-dev": {
-        "franzl/studio": "^0.11.0"
+        "franzl/studio": "^0.11.0",
+        "heroku/heroku-buildpack-php": "*"
     },
     "config": {
         "preferred-install": "dist"
