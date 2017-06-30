@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "12db394d1f11334dce50e637d534622e",
+    "content-hash": "b4b629a743afdb434a29b88a0eb68707",
     "packages": [
         {
             "name": "avatar4eg/flarum-ext-share-social",
@@ -5506,6 +5506,8 @@
     },
     "prefer-stable": true,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "ext-gd": "*"
+    },
     "platform-dev": []
 }

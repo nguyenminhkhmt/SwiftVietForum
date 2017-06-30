@@ -48,7 +48,8 @@
         "flagrow/flarum-ext-analytics": "^0.5.0",
         "avatar4eg/flarum-ext-share-social": "^0.2.3",
         "datitisev/flarum-ext-dashboard": "^0.1.0@beta",
-        "davis/flarum-ext-socialprofile": "^0.2.3"
+        "davis/flarum-ext-socialprofile": "^0.2.3",
+        "ext-gd": "*"
     },
     "require-dev": {
         "franzl/studio": "^0.11.0",
