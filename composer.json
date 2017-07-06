@@ -59,8 +59,7 @@
         "s9e/flarum-ext-mediaembed": "^0.3.2",
         "xengine/flarum-ext-signature": "^0.1.2",
         "datitisev/flarum-ext-dashboard": "^0.1.0@beta",
-        "davis/flarum-ext-socialprofile": "^0.2.3",
-        "issyrocks12/flarum-ext-filter": "^1.2",
+        "davis/flarum-ext-socialprofile": "^0.2.3",        
         "sijad/flarum-ext-recaptcha": "^0.0.2",
         "terabin/flarum-ext-sitemap": "^1.0@beta",
         "hyn/flarum-default-group": "^0.5.0",
@@ -78,9 +77,8 @@
         "sijad/flarum-ext-spoiler-alert": "^0.1.0",
         "s9e/flarum-ext-autoimage": "^1.0",
         "s9e/flarum-ext-autovideo": "^1.0",
-        "davis/flarum-ext-split": "^0.1.0@beta",
         "matpompili/flarum-imgur-upload": "^1.0",
-        "vuthaihoc/flarum-vn-slug": "^0.1.0"    
+        "vuthaihoc/flarum-vn-slug": "0.1.0"
     },
     "require-dev": {
         "franzl/studio": "^0.11.0",

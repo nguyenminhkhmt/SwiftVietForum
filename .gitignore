@@ -1,3 +1,11 @@
+assets/avatars/*
+assets/*.js
+assets/*.css
+storage
 vendor
 .env
-storage/cache
+storage
+.DS_Store
+.idea
+config.php
+sitemap.xml
